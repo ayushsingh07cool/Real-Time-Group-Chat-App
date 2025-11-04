@@ -13,12 +13,7 @@ It allows multiple users to send and receive messages instantly using a publish/
 ✅ Configurable CORS and server port
 
 
-| Layer      | Technology                                              |
-| ---------- | ------------------------------------------------------- |
-| Backend    | Spring Boot, Spring WebSocket, Spring Messaging (STOMP) |
-| Frontend   | HTML, JavaScript, SockJS, Stomp.js                      |
-| Build Tool | Maven                                                   |
-| Language   | Java 17+                                                |
+
 
 
 Project Structure 
